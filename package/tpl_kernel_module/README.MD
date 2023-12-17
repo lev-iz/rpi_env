@@ -1,0 +1,1 @@
+# Core module template for this system
